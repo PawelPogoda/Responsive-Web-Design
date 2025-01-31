@@ -6,15 +6,14 @@ body {
     background-image:url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg)
 }
 .menu {
-    styles
-    margin-left:auto;
-    margin-right:auto;
-
+    padding-left: 20px;
+    padding-right: 20px;
     width: 80%;
-
-    background-color: blurywood;
-}
-.flavor {
+    background-color: burlywood;
+    margin-left: auto;
+    margin-right: auto;
+  }
+.flavor, .dessert {
     text-align:left;
 }
 .price {
