@@ -18,8 +18,10 @@ body {
     text-align:left;
 }
 .price {
+    width:49%;
     text-align:right;
 }
 .item p {
+    width:49%;
     display:inline-block;
 }
