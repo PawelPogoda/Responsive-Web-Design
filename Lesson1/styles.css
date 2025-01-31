@@ -6,7 +6,10 @@ body {
     /*background-color: burlywood;*/
 }
 #menu {
-    width: 300px;
+    margin-left:auto;
+    margin-right:auto;
+
+    width: 80%;
 
     background-color: blurywood;
 }
