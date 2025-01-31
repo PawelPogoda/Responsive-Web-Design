@@ -14,8 +14,8 @@
             <p>EST. 2020</p>
             <section>
                 <h2>Coffee</2>
-                    <article class="flavor">
-                        <p>French Vanilla</p> <p class="price">3.00</p>
+                    <article class="item">
+                        <p class="flavor">French Vanilla</p> <p class="price">3.00</p>
                         </article>
                         <article>
                         <p>Caramel Macchiato</p> <p>3.75</p>
