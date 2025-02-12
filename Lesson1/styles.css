@@ -40,8 +40,17 @@ body {
     text-align:right;
 }
 .item p {
+    font-size: 18px;
     margin-top: 5px;
     margin-bottom: 5px;
     width:25%;
     display:inline-block;
+}
+.bottom-line {
+    margin-top: 25px;
+
+}
+/* FOOTER */
+footer {
+    font-size: 14px;
 }
