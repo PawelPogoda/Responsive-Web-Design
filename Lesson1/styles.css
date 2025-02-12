@@ -21,6 +21,8 @@ body {
     border-color: brown;
   }
   h1 {
+    margin-bottom: 15px;
+    margin-top: 0px;
     font-size: 40px;
   }
   h2 {
@@ -58,11 +60,14 @@ a{
     color: black;
 }
 a:visited {
-    color: grey;
+    color: gblack;
 }
 a:hover {
     color: brown;
 }
 a:active {
-    color: white;
+    color: brown;
+}
+.address{
+    margin-bottom: 5px;
 }
