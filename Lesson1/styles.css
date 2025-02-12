@@ -14,6 +14,9 @@ body {
   padding: 20px;
   max-width: 500px;
   }
+  hr {
+    height: 3px;
+  }
   h1 {
     font-size: 40px;
   }
