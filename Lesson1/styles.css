@@ -4,6 +4,7 @@ h1, h2, p {
 }
 body {
     font-family: sans-serif;
+    padding: 20px;
     background-image:url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg)
 }
 .menu {
@@ -15,7 +16,7 @@ body {
   max-width: 500px;
   }
   hr {
-    height: 3px;
+    height: 2px;
     background: brown;
     border-color: brown;
   }
