@@ -40,6 +40,8 @@ body {
     text-align:right;
 }
 .item p {
+    margin-top: 5px;
+    margin-bottom: 5px;
     width:25%;
     display:inline-block;
 }
